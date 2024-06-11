@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "203479776076",
+    "project_id": "pc-hardware-parts-app",
+    "storage_bucket": "pc-hardware-parts-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203479776076:android:21249987c19b2ff30e6de9",
+        "android_client_info": {
+          "package_name": "com.example.pc_hardware_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW9VWKl0sGpzcwUnOu-qqTT0uLRCS1zNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
